@@ -1,0 +1,41 @@
+CONTACT INFO:
+
+Jordan Brown
+jbrown94@u.rochester.edu
+CSC 171 SPRING 2015
+Project: Checkers
+
+ASSIGNMENT DESCRIPTION:
+
+Write a Java package called checkers, and write a Square class that creates
+squares and checks whether the square is occupied by a checker. Then, create a Checkerboard class that
+creates and prints out a checkerboard using a two dimensional Square array. Make a test class to print
+out results. 
+
+
+INSTRUCTIONS ON RUNNING CODE:
+
+1. Move project file to Desktop
+2. Open Command Prompt window
+3. Enter cd <Desktop> 
+4. Enter cd <Lab file name> 
+5. Enter javac -cp -d <destination folder where .class files are stored> <path to the .java files>
+
+Do not include angle brackets
+
+
+	e.g.
+
+To compile my package from the command line:
+	
+	Enter javac -cp. -d c:\workspace\checkers\bin checkers\*.java
+
+
+To run class from command line: 
+	
+	NOTE: Run the TestChecker class like this...
+	
+	Enter java -cp.checkers.TestChecker
+	
+	
+	
