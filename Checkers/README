@@ -5,7 +5,7 @@ jbrown94@u.rochester.edu
 CSC 171 SPRING 2015
 Project: Checkers
 
-ASSIGNMENT DESCRIPTION:
+PROJECT DESCRIPTION:
 
 Write a Java package called checkers, and write a Square class that creates
 squares and checks whether the square is occupied by a checker. Then, create a Checkerboard class that
